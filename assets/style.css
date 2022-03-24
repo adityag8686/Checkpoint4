@@ -1357,6 +1357,9 @@ blockquote i{
         width: 10rem;
         margin-left: 13rem;
     }
+    .subscribe{
+        top: 7.4rem;
+    }
     /* Footer */
     .footer{
         text-align: center;
