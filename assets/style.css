@@ -1357,9 +1357,7 @@ blockquote i{
         width: 10rem;
         margin-left: 13rem;
     }
-    .subscribe{
-        top: 7.4rem;
-    }
+
     /* Footer */
     .footer{
         text-align: center;
@@ -1410,9 +1408,9 @@ blockquote i{
         margin-left: 8rem;
         padding: 1rem 1rem;
     }
-    .subscribe-box{
+    /* .subscribe-box{
         margin-right: 5rem;
-    }
+    } */
     .footer-nav{
         margin-left: 6rem;
     }
