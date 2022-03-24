@@ -515,11 +515,9 @@ h4{
 }
 .flex-48-3{
     background-image: url(../assets/media/values-3.jpg);
-	height: 70vh;
 }
 .flex-48-4{
     background-image: url(../assets/media/values-4.jpg);
-	height: 70vh;
 	
 }
 .box{
@@ -567,7 +565,7 @@ h4{
 
 .panel{
 	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../assets/media/testimonials-bg.jpg);
-	height: 70vh;
+	max-height: 70vh;
 	background-size: cover;
 	padding: 2rem 0;
 }
@@ -1308,6 +1306,9 @@ blockquote i{
     /* Section-3 */
     .section-3{
         margin-top: 100rem;
+    }
+    .flex-40{
+        height: 30vh;
     }
     /* Section-6 */
     .box{
